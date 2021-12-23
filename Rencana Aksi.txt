@@ -1,0 +1,5 @@
+Merancang Pembuatan Aplikasi Bank Data
+- Mengumpulkan bahan dari stakeholder
+- Menganalisa kebutuhan sistem
+- Menganalisa work flow.. bisnis proses
+- Membuat rancangan data base
